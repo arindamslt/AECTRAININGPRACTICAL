@@ -1,0 +1,7 @@
+my:
+ db:
+  driver: oracle
+  url: jdbc
+  uname: scott
+  pass: tiger
+    

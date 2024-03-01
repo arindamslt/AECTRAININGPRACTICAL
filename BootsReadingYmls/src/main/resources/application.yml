@@ -1,0 +1,6 @@
+mydb:
+ app:
+  driver: oracledriver
+  url: jdbc:oracle
+  uname: scott
+  pass: tiger
